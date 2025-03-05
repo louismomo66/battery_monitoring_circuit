@@ -3,7 +3,7 @@ Overview
 
 This project is an Arduino-based battery voltage monitoring and logging system that measures, displays, and records voltage levels over time. It helps track battery health and detect abnormal conditions, making it useful for battery-powered systems, renewable energy applications, and backup power monitoring.
 
-##Features
+## Features
 
 Real-time voltage monitoring using an analog input and a voltage divider.
 
@@ -19,7 +19,7 @@ Adjustable voltage thresholds stored in EEPROM.
 
 RTC integration for accurate timestamping.
 
-Components Used
+## Components Used
 
 Arduino (any compatible board)
 
@@ -35,7 +35,7 @@ Voltage divider circuit for battery voltage measurement
 
 EEPROM for saving threshold values and misuse count
 
-##How It Works
+## How It Works
 
 Voltage Measurement:
 
